@@ -1,38 +1,156 @@
 [
 {
-"vendor_id": "101",
-"vendor_name": "ABC Vegetables Pvt Ltd",
-"vendor_regNo": "DF786FG67L",
-"vendor_PAN": "AZRPN5780D"
+"vegetable_id":"20101",
+"vegetable_name":"Acorn Squash",
+"vegetable_img":"https://bit.ly/2R1NEHM",
+"vegetable_kgPriceINR":80,
+"vegetable_vendorS_ID":[101,105,106]
 },
 {
-"vendor_id": "102",
-"vendor_name": "PQR Quality Imports LLC",
-"vendor_regNo": "JI679JI95T",
-"vendor_PAN": "AZRPN5781F"
+"vegetable_id":"20102",
+"vegetable_name":"Bell Peppers",
+"vegetable_img":"https://bit.ly/2WzEzMn",
+"vegetable_kgPriceINR":120,
+"vegetable_vendorS_ID":[103,104,105,106]
 },
 {
-"vendor_id": "103",
-"vendor_name": "XYZ Quality Products",
-"vendor_regNo": "BJ874UI57T",
-"vendor_PAN": "AZRPN5789H"
+"vegetable_id":"20103",
+"vegetable_name":"Carrots",
+"vegetable_img":"https://bit.ly/2KG0b2k",
+"vegetable_kgPriceINR":90,
+"vegetable_vendorS_ID":[102,105,106,104]
 },
 {
-"vendor_id": "104",
-"vendor_name": "MNO Agro Ltd",
-"vendor_regNo": "VU875CN29A",
-"vendor_PAN": "AZRPN5724B"
+"vegetable_id":"20104",
+"vegetable_name":"Red Chili Peppers",
+"vegetable_img":"https://bit.ly/31pcrKP",
+"vegetable_kgPriceINR":89,
+"vegetable_vendorS_ID":[106,101,103]
 },
 {
-"vendor_id": "105",
-"vendor_name": "JKL Agriculture Ltd",
-"vendor_regNo": "NJ284VD51D",
-"vendor_PAN": "AZRPN57FF5"
+vegetable_id:"20105",
+vegetable_name:"Sweet Potatoes",
+vegetable_img:"https://bit.ly/2I75Vk6",
+vegetable_kgPriceINR:38,
+vegetable_vendorS_ID:[101,102,103,104,105,106]
 },
 {
-"vendor_id": "106",
-"vendor_name": "Farmers and Sons Ltd",
-"vendor_regNo": "VD236VJ36Y",
-"vendor_PAN": "AZRPN57DF5"
+vegetable_id:"20106",
+vegetable_name:"Tomatoes",
+vegetable_img:"https://bit.ly/2F1Ksap",
+vegetable_kgPriceINR:48,
+vegetable_vendorS_ID:[104,105,106]
+},
+{
+"vegetable_id":"20107",
+"vegetable_name":"Endive",
+"vegetable_img":"https://bit.ly/2KG2yCm",
+"vegetable_kgPriceINR":64,
+"vegetable_vendorS_ID":[105]
+},
+{
+vegetable_id:"20108",
+vegetable_name:"Broccoli",
+vegetable_img:"https://bit.ly/2KGCdEu",
+vegetable_kgPriceINR:63,
+vegetable_vendorS_ID:[104,106]
+},
+{
+"vegetable_id":"20109",
+"vegetable_name":"Dark-Green Leafy Lettuce",
+"vegetable_img":"https://bit.ly/2KaV4Yv",
+"vegetable_kgPriceINR":51,
+"vegetable_vendorS_ID":[102]
+},
+{
+"vegetable_id":"20110",
+"vegetable_name":"Spinach",
+"vegetable_img":"https://bit.ly/2WwcO2B",
+"vegetable_kgPriceINR":16,
+"vegetable_vendorS_ID":[101,102,104,105,106]
+},
+{
+"vegetable_id":"20111",
+"vegetable_name":"Watercress",
+"vegetable_img":"https://bit.ly/2EZVKvC",
+"vegetable_kgPriceINR":39,
+"vegetable_vendorS_ID":[105,104,102]
+},
+{
+"vegetable_id":"20112",
+"vegetable_name":"Mixed Greens",
+"vegetable_img":"https://bit.ly/2K9SXUQ",
+"vegetable_kgPriceINR":42,
+"vegetable_vendorS_ID":[106]
+},
+{
+"vegetable_id":"20113",
+"vegetable_name":"Avocado",
+"vegetable_img":"https://bit.ly/2wMJA4W",
+"vegetable_kgPriceINR":36,
+"vegetable_vendorS_ID":[107]
+},
+{
+vegetable_id:"20114",
+vegetable_name:"Garlic",
+vegetable_img:"https://bit.ly/2ZdWwNm",
+vegetable_kgPriceINR:18,
+vegetable_vendorS_ID:[103]
+},
+{
+vegetable_id:"20115",
+vegetable_name:"Bean Sprouts",
+vegetable_img:"https://bit.ly/2R3aU8a",
+vegetable_kgPriceINR:42,
+vegetable_vendorS_ID:[104]
+},
+{
+"vegetable_id":"20116",
+"vegetable_name":"Beets",
+"vegetable_img":"https://bit.ly/2XKJ0jO",
+"vegetable_kgPriceINR":89,
+"vegetable_vendorS_ID":[105]
+},
+{
+"vegetable_id":"20117",
+"vegetable_name":"Cauliflower",
+"vegetable_img":"https://bit.ly/2K8E1q6",
+"vegetable_kgPriceINR":47,
+"vegetable_vendorS_ID":[106]
+},
+{
+"vegetable_id":"20118",
+"vegetable_name":"Cabbage",
+"vegetable_img":"https://bit.ly/2Wwp5c2",
+"vegetable_kgPriceINR":36,
+"vegetable_vendorS_ID":[102,103]
+},
+{
+"vegetable_id":"20119",
+"vegetable_name":"Cucumbers",
+"vegetable_img":"https://bit.ly/2wKkpjl",
+"vegetable_kgPriceINR":"",
+"vegetable_vendorS_ID":[105,106]
+},
+{
+vegetable_id:"20120",
+vegetable_name:"Eggplant",
+vegetable_img:"https://bit.ly/2ZiVMXj",
+vegetable_kgPriceINR:40,
+vegetable_vendorS_ID:[101,102,104]
+},
+{
+"vegetable_id":"20121",
+"vegetable_name":"Okra",
+"vegetable_img":"https://bit.ly/2KDJYLb",
+"vegetable_kgPriceINR":"",
+"vegetable_vendorS_ID":[104,106]
+},
+{
+"vegetable_id":"20122",
+"vegetable_name":"dummy name for long text adjustment to check the width",
+"vegetable_img":"https://bit.ly/2KDJYLb",
+"vegetable_kgPriceINR":895,
+"vegetable_vendorS_ID":[101,102,103,104,105,106]
 }
 ]
