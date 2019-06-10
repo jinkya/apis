@@ -1,0 +1,38 @@
+[
+{
+vendor_id: '101',
+vendor_name: 'ABC Vegetables Pvt Ltd',
+vendor_regNo: 'DF786FG67L',
+vendor_PAN: 'AZRPN5780D'
+},
+{
+vendor_id: '102',
+vendor_name: 'PQR Quality Imports LLC',
+vendor_regNo: 'JI679JI95T',
+vendor_PAN: 'AZRPN5781F'
+},
+{
+vendor_id: '103',
+vendor_name: 'XYZ Quality Products',
+vendor_regNo: 'BJ874UI57T',
+vendor_PAN: 'AZRPN5789H'
+},
+{
+vendor_id: '104',
+vendor_name: 'MNO Agro Ltd',
+vendor_regNo: 'VU875CN29A',
+vendor_PAN: 'AZRPN5724B'
+},
+{
+vendor_id: '105',
+vendor_name: 'JKL Agriculture Ltd',
+vendor_regNo: 'NJ284VD51D',
+vendor_PAN: 'AZRPN57FF5'
+},
+{
+vendor_id: '106',
+vendor_name: 'Farmers and Sons Ltd',
+vendor_regNo: 'VD236VJ36Y',
+vendor_PAN: 'AZRPN57DF5'
+}
+]
